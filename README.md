@@ -42,7 +42,7 @@ Update procedure
 All definitions are automatically updated from their original source.
 You can see it under `x-origin` property inside [each](https://github.com/APIs-guru/openapi-directory/search?utf8=%E2%9C%93&q=x-origin+filename%3Aswagger.yaml) of `swagger.yaml` files.
 We run our update script at least weekly and manually check diffs before commit.
-If you see some APIs are not updated for more than 2 weeks please open [an issue](https://github.com/APIs-guru/openapi-directory/issues/new).
+If you see some APIs are not updated for more than 2 weeks please open [an issue here](https://github.com/APIs-guru/openapi-directory/issues/new).
 
 Existing integrations
 --------------------------
